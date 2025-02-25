@@ -19,6 +19,7 @@
 
 ## 🔥 Моя статистика:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radmir2517&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=radmir2517&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
