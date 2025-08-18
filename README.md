@@ -9,9 +9,9 @@
 
 ## 🚀 Обо Мне
 
-Я Unreal Engine разработчик. Мой путь в it начался с Udemy, где я прошел несколько курсов, сначало по с++, потом совместного с Unreal Engine. После нескольких курсов в 2025 году и по настоящее время у меня уже есть несколько проектов в том числе мультиплеерных (один Action RPG с применение GameplayAbilitySystem, второй чисто Action аля Quake), а также связанные с AI врагов, где я делал продвинутых врагов наподобие в Elden Ring.
-## 🛠 Технологии:
+Я Unreal Engine разработчик. Мой путь в it начался с Udemy, где я прошел несколько курсов, сначало по с++, потом совместного с Unreal Engine. После нескольких курсов и больше года обучения у меня уже есть несколько проектов в том числе мультиплеерных (один Action RPG с применение GameplayAbilitySystem, второй это Action на подобие Quake), а также связанные с AI врагов, где я делал продвинутых врагов наподобие в Elden Ring.
 
+## 🛠 Технологии:
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
